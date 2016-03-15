@@ -1,6 +1,6 @@
 # Stateless-react-webpack-boilerplate
 
-Kickstart your devlopment with this basic boilerplate containing a specificed webpack with css-loader, jsx-transformer, babel, react and stateless functions. 
+Kickstart your development with this basic boilerplate containing a specificed webpack with css-loader, jsx-transformer, babel, react and stateless functions. 
 
 Made with :heart: by [Even Stensberg](https://twitter.com/ev1stensberg) :tiger:
 ##Motivation
