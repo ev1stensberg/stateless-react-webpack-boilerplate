@@ -24,19 +24,17 @@ It is really hard to start off with react, and this boilerplate aims to get you 
 
 1. Clone this repo using `git clone https://github.com/ev1stensberg/stateless-react-webpack-boilerplate.git`.
 
-2. Delete the existing git repository by running `rm -rf .git`.
+2. Delete the existing git repository by running `rm -rf .git`. , delete the license, readme and/or navigate to the `react-webpack-boilerplate` folder in the project.
 
-3. Initialize a new git repository with `git init`, `git add .` and `git commit -m "Initial commit"`.
+3. Run `npm install` to install the dependencies.
 
-4. Run `npm install` to install the dependencies.
+4. Run `npm build` to build the script files. or, run `webpack` in the terminal, if you don't get any new scripts in `/public/`
 
-5. Run `npm build` to build the script files. or, run `webpack` in the terminal
+5. Run `npm start` to start the project, and you should see some really awesome stuff in the terminal.
 
-6. Run `npm start` to start the project, and you should see some really awesome stuff in the terminal.
+6. Go to `http://localhost:8080/webpack-dev-server/` and you should see the app running if you navigate to `/public/index.html` while at the dashboard in your browser, otherwise, click on index.html in your folder and open it manually. 
 
-7. Go to `http://localhost:8080/webpack-dev-server/` and you should see the app running if you navigate to `/public/index.html` while at the dashboard in your browser, otherwise, click on index.html in your folder and open it manually. 
-
-8. You're set to explore the future on your own! :facepunch:
+7. You're set to explore the future on your own! :facepunch:
 
 
 ##Stateless functions 
