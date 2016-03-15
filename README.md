@@ -22,7 +22,7 @@ It is really hard to start off with react, and this boilerplate aims to get you 
 
 ##Quickstart
 
-1. Clone this repo using `git clone https://github.com/mxstbr/react-boilerplate.git`.
+1. Clone this repo using `git clone https://github.com/ev1stensberg/stateless-react-webpack-boilerplate.git`.
 
 2. Delete the existing git repository by running `rm -rf .git`.
 
