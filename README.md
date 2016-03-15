@@ -39,7 +39,7 @@ It is really hard to start off with react, and this boilerplate aims to get you 
 
 ##Stateless functions 
 
-Stateless functions are a cleaner and more efficient way of using react components if you have no behaviour of your component, such as the `ComponentWillMount()` method. it lets you make component super-easy with ES6 arrow functions, while having very much the same behaviour, besides gotchas like not accessing this.props, but rather invoking the properites straight away. It also let's you define your PropTypes within your arrow function, which I find very handy. To read more about ES6 & stateless functions: 
+Stateless functions are a cleaner and more efficient way of using react components if you have no behaviour of your component, such as the `ComponentWillMount()`. it lets you make component super-easy with ES6 arrow functions, while having very much the same behaviour, besides gotchas like not accessing this.props, but rather invoking the properites straight away. It also let's you define your PropTypes within your arrow function, which I find very handy. To read more about ES6 & stateless functions: 
 
 - [**Facebook DOCS**](https://facebook.github.io/react/docs/reusable-components.html)
 - [**Should I use React.createClass, ES6 classes or stateless functions as components?**](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
