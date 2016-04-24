@@ -50,4 +50,4 @@ Stateless functions are a cleaner and more efficient way of using react componen
 I'd like to thank [Dan Abramov](https://twitter.com/dan_abramov), [Jordan Walke](https://twitter.com/jordwalke), [Sebastian Markbåge](https://twitter.com/sebmarkbage), [Max Stoiber](https://twitter.com/mxstbr) and [Christopher Chedeau](https://twitter.com/Vjeux) for helping me out on issues that I find very confusing at times, while still being humble. I appreciate it.
 
 ##Contribution
-To contribute to this repo, please be humble, and submit specific, detailed issues, where you clearly point out the error.
+To contribute to this repo, please be humble, and submit specific, detailed issues, where you clearly point out the error. This is not actively maintained, as it just shows off a functionality and not extensively a feature/project. 
